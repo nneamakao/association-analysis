@@ -13,5 +13,5 @@ The dataset used is the Market Basket dataset from [Kaggle](https://www.kaggle.c
 
 #### Libraries Used
 - pandas & numpy - for data manipulation
-- seaborn - for data visualisation
+- seaborn & matplotlib - for data visualisation
 - mlxtend - for association analysis 
